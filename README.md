@@ -30,11 +30,11 @@ Os projetos que desenvolvo registram minha evolução em Java, desde os fundamen
 ## Contato
 
 <p>
-  <a href="https://www.linkedin.com/in/seu-link">
+  <a href="www.linkedin.com/in/matheusflopes">
     <img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
   </a>
 
-  <a href="mailto:seu-email@email.com">
+  <a href="mailto:matheusflopes167@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="42"/>
   </a>
 </p>
