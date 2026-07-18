@@ -1,8 +1,15 @@
 # Matheus Ferreira Lopes
 
-Estudante de **Desenvolvimento de Software Multiplataforma** na **Fatec Diadema**, com foco em desenvolvimento **Back-end utilizando Java**.
+Estudante de **Desenvolvimento de Software Multiplataforma** na **Fatec Diadema**.
 
-Atualmente estou aprofundando meus conhecimentos em Java, construindo uma base sólida em desenvolvimento de software por meio de projetos práticos. Meu objetivo é conquistar uma oportunidade de estágio e evoluir profissionalmente no ecossistema Java.
+Atualmente estou no **2º semestre** do curso, com previsão de conclusão em **2028**. Tenho foco em desenvolvimento **Back-end utilizando Java**, construindo uma base sólida em programação e desenvolvimento de software por meio de estudos e projetos práticos.
+
+## Formação
+
+🎓 **Fatec Diadema**
+**Tecnologia em Desenvolvimento de Software Multiplataforma**
+📚 2º semestre
+📅 Conclusão prevista: 2028
 
 ## Tecnologias
 
@@ -21,20 +28,16 @@ Tenho interesse em construir minha carreira como **Desenvolvedor Back-end Java**
 
 Os projetos que desenvolvo registram minha evolução em Java, desde os fundamentos da linguagem até conceitos mais avançados de desenvolvimento Back-end.
 
-<p>
-  <a href="https://github.com/MatheusLopes11/portfolio">
-    <img src="https://img.shields.io/badge/Acessar%20Portfólio-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+[![Acessar Portfólio](https://img.shields.io/badge/Acessar%20Portfólio-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/MatheusLopes11/java-portfolio)
 
 ## Contato
 
 <p>
-  <a https://www.linkedin.com/in/matheusflopes/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=linkedin" height="32"/>
+  <a href="https://www.linkedin.com/in/matheusflopes/">linkedin.com/in/matheusflopes</a>
+</p>
 
-  <a href="mailto:matheusflopes167@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="42"/>
-  </a>
+<p>
+  <img src="https://skillicons.dev/icons?i=gmail" height="32"/>
+  <a href="mailto:matheusflopes167@gmail.com">matheusflopes167@gmail.com</a>
 </p>
