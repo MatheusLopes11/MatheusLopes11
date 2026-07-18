@@ -30,7 +30,7 @@ Os projetos que desenvolvo registram minha evolução em Java, desde os fundamen
 ## Contato
 
 <p>
-  <a href="www.linkedin.com/in/matheusflopes">
+  <a https://www.linkedin.com/in/matheusflopes/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
   </a>
 
