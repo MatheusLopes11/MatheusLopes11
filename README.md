@@ -6,15 +6,14 @@ Atualmente estou no **2º semestre da Fatec**, com foco em desenvolvimento **Bac
 
 ## Formação
 
-🎓 **Fatec Diadema**
-**Tecnologia em Desenvolvimento de Software Multiplataforma**
-📚 2º semestre
-📅 Previsão de conclusão: 2028
+- **Fatec Diadema**  
+  **Tecnologia em Desenvolvimento de Software Multiplataforma**  
+  2º semestre  
+  Previsão de conclusão: 2028
 
-🎓 **ETEC Juscelino Kubitschek de Oliveira (ETEC JK)**
-**Técnico em Desenvolvimento de Sistemas**
-📅 Janeiro de 2025 — Junho de 2026
-
+- **ETEC Juscelino Kubitschek de Oliveira (ETEC JK)**  
+  **Técnico em Desenvolvimento de Sistemas**  
+  Janeiro de 2025 — Junho de 2026
 
 ## Tecnologias
 
