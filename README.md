@@ -19,19 +19,22 @@ Tenho interesse em construir minha carreira como **Desenvolvedor Back-end Java**
 
 ## Portfólio
 
-Ao longo da minha jornada de aprendizado venho desenvolvendo projetos para consolidar meus conhecimentos em Java. Cada repositório documenta os conceitos estudados, as tecnologias utilizadas e a evolução das minhas habilidades como desenvolvedor.
+Os projetos que desenvolvo registram minha evolução em Java, desde os fundamentos da linguagem até conceitos mais avançados de desenvolvimento Back-end.
 
-➡️ **Acesse meu portfólio de projetos:**
-**https://github.com/MatheusLopes11/portfolio**
+<p>
+  <a href="https://github.com/MatheusLopes11/portfolio">
+    <img src="https://img.shields.io/badge/Acessar%20Portfólio-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ## Contato
 
 <p>
-  <a href="https://www.linkedin.com/in/seu-link" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="42" />
+  <a href="https://www.linkedin.com/in/seu-link">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
   </a>
 
   <a href="mailto:seu-email@email.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="42" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="42"/>
   </a>
 </p>
