@@ -1,15 +1,20 @@
 # Matheus Ferreira Lopes
 
-Estudante de **Desenvolvimento de Software Multiplataforma** na **Fatec Diadema**.
+Estudante de **Desenvolvimento de Software Multiplataforma** na **Fatec Diadema**, com formação técnica em **Desenvolvimento de Sistemas pela ETEC Juscelino Kubitschek de Oliveira**.
 
-Atualmente estou no **2º semestre** do curso, com previsão de conclusão em **2028**. Tenho foco em desenvolvimento **Back-end utilizando Java**, construindo uma base sólida em programação e desenvolvimento de software por meio de estudos e projetos práticos.
+Atualmente estou no **2º semestre da Fatec**, com foco em desenvolvimento **Back-end utilizando Java**. Venho construindo uma base sólida em programação e desenvolvimento de software por meio de estudos, projetos práticos e evolução contínua das minhas habilidades técnicas.
 
 ## Formação
 
 🎓 **Fatec Diadema**
 **Tecnologia em Desenvolvimento de Software Multiplataforma**
 📚 2º semestre
-📅 Conclusão prevista: 2028
+📅 Previsão de conclusão: 2028
+
+🎓 **ETEC Juscelino Kubitschek de Oliveira (ETEC JK)**
+**Técnico em Desenvolvimento de Sistemas**
+📅 Janeiro de 2025 — Junho de 2026
+
 
 ## Tecnologias
 
