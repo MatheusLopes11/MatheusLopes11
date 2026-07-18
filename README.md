@@ -1,8 +1,8 @@
 # Matheus Ferreira Lopes
 
-Estudante de **Desenvolvimento de Software Multiplataforma** na **Fatec Diadema**, com formação técnica em **Desenvolvimento de Sistemas pela ETEC Juscelino Kubitschek de Oliveira**.
+Olá, tudo bem? Estou cursando ensino superior em **Desenvolvimento de Software Multiplataforma** na **Fatec Diadema**, e possuo formação técnica em **Desenvolvimento de Sistemas pela ETEC Juscelino Kubitschek de Oliveira**.
 
-Atualmente estou no **2º semestre da Fatec**, com foco em desenvolvimento **Back-end utilizando Java**. Venho construindo uma base sólida em programação e desenvolvimento de software por meio de estudos, projetos práticos e evolução contínua das minhas habilidades técnicas.
+Atualmente estou no **2º semestre do Curso de DSM**, com foco em desenvolvimento **Back-end utilizando Java**. Venho construindo uma base sólida em programação e desenvolvimento de software por meio de estudos, projetos práticos e evolução contínua das minhas habilidades técnicas.
 
 ## Formação
 
