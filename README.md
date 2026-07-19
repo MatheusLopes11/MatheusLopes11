@@ -19,7 +19,6 @@ Atualmente estou no **2º semestre do Curso de DSM**, com foco em desenvolviment
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,mysql,git,github,idea" />
-  <img src="https://img.shields.io/badge/GitHub%20CLI-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ## Objetivo Profissional
