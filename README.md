@@ -6,7 +6,7 @@ Atualmente estou no **2º semestre do Curso de DSM**, com foco em desenvolviment
 
 ## Formação
 
-- **Fatec Diadema**  
+- **FATEC Diadema**  
   **Tecnologia em Desenvolvimento de Software Multiplataforma**  
   2º semestre  
   Previsão de conclusão: 2028
