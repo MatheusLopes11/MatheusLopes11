@@ -13,7 +13,7 @@ Atualmente estou no **2º semestre do Curso de DSM**, com foco em desenvolviment
 
 - **ETEC Juscelino Kubitschek de Oliveira (ETEC JK)**  
   **Técnico em Desenvolvimento de Sistemas**  
-  Janeiro de 2025 — Junho de 2026
+  Fevereiro de 2025 — Junho de 2026
 
 ## Tecnologias
 
